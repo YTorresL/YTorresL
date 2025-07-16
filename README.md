@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yalith Torres
 
-### 💻 Web Developer | Frontend & Backend | WordPress · Next.js · TailwindCSS
+### 💻 Web Developer | Frontend & Backend | WordPress · JavaScript · Python · Java
 
 ---
 
