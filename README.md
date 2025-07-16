@@ -24,7 +24,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)]((https://github.com/YTorresL)
 
 ## ✨ About Me
 
