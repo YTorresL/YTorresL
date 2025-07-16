@@ -9,9 +9,6 @@
 #### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-#### Top Languages
-![YTorresL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ---
 
 
