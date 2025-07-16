@@ -30,12 +30,10 @@
 
 <br>
 
-- 🚀 Passionate about technology and web development.
-- 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
-- 🧠 Constantly learning: from backend to cloud computing.
-- ✨ Enjoy teamwork and sharing what I know on my [YouTube channel](https://youtube.com/tu-canal).
-- 🌱 Currently improving my English, communication, and coding skills.
-- 💡 I love turning ideas into real web products!
+- 🚀 Constantly learning and gradually improving my English.
+- 🤖 Passionate about artificial intelligence and technology.
+- 🎨 I love creating products that are both creative and functional.
+- 💻 I'm a freelancer who enjoys turning ideas into real web solutions.
 
 ## 🧰 Tech Stack
 
