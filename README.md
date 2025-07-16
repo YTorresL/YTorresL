@@ -14,11 +14,13 @@
 ### 💻 Web Developer | Frontend & Backend | WordPress · JavaScript · Python · Java
 
 <br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## ✨ About Me
 
 <br>
+
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
 - 🧠 Constantly learning: from backend to cloud computing.
@@ -27,7 +29,9 @@
 - 💡 I love turning ideas into real web products!
 
 ## 🧰 Tech Stack
+
 <br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
