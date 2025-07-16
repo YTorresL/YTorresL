@@ -15,7 +15,8 @@
         <img src="https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </a>
     </td>
-    <td style="border-left:1px solid gray; padding-left:20px;">
+    <td style="width: 1px; background-color: gray;"></td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
