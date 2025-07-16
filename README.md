@@ -4,6 +4,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=dark)
+
+---
+
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
 - 🧠 Constantly learning: from backend to cloud computing.
@@ -43,9 +50,4 @@
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/tu-canal)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://tusitio.dev)
 
----
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=dark)
