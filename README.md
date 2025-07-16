@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Yalith Torres
 
-### 💻 Web Developer | Frontend & Backend | WordPress · Next.js · Angular · TailwindCSS
+### 💻 Web Developer | Frontend & Backend | WordPress · Next.js · TailwindCSS
 
 ---
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=dark)
 
 ---
