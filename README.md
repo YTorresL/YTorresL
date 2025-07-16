@@ -13,10 +13,12 @@
 # 👋 Hello, I'm Yalith Torres
 ### 💻 Web Developer | Frontend & Backend | WordPress · JavaScript · Python · Java
 
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## ✨ About Me
 
+<br>
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
 - 🧠 Constantly learning: from backend to cloud computing.
