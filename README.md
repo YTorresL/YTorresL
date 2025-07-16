@@ -16,7 +16,7 @@
       </a>
     </td>
     <td style="width: 1px; background-color: gray;"></td>
-    <td>
+    <td style="border: 'none';">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
