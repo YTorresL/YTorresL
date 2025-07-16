@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-## 🧰 About Me
+## ✨ About Me
 
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
