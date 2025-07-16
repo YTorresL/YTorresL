@@ -7,7 +7,7 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![YTorresL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![YTorresL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
