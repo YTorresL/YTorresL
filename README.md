@@ -11,9 +11,8 @@
   <a href="mailo:yalithdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://portfoliov2-app.vercel.app" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fportfoliocollection.com%2F&psig=AOvVaw2O7tFqgWn-LXjALkRL9DG-&ust=1752728689429000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjjpbXNwI4DFQAAAAAdAAAAABAE" height="25" alt="LinkedIn Logo"  />
-  </a>
+  [![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
+
 </div>
 
 # 👋 Hello, I'm Yalith Torres
