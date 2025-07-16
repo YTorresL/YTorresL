@@ -15,9 +15,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
---
-
-
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
 - 🧠 Constantly learning: from backend to cloud computing.
@@ -25,9 +22,9 @@
 - 🌱 Currently improving my English, communication, and coding skills.
 - 💡 I love turning ideas into real web products!
 
----
 
-### 🧰 Tech Stack
+
+## 🧰 Tech Stack
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,9 +38,8 @@
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
----
 
-### 📬 Contact Me
+## 📬 Contact Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yalithdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yalith-torres])
