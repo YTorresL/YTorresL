@@ -38,10 +38,3 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 
-## 📬 Contact Me
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yalithdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yalith-torres])
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://portfoliov2-app.vercel.app)
-
-
