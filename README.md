@@ -8,12 +8,12 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
