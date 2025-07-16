@@ -10,12 +10,8 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-## 👋 Hello, I'm Yalith Torres
+# 👋 Hello, I'm Yalith Torres
 ### 💻 Web Developer | Frontend & Backend | WordPress · JavaScript · Python · Java
-
--
-
-### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
