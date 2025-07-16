@@ -6,6 +6,7 @@
 
 ### 📊 GitHub Stats
 
+
 <table>
   <tr>
     <td>
@@ -14,13 +15,15 @@
       </a>
     </td>
     <td style="width: 1px; background-color: gray;"></td>
-    <td style="border: 'none';">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTorresL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
+
 ---
+
 
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
@@ -32,6 +35,7 @@
 ---
 
 ### 🧰 Tech Stack
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -48,11 +52,13 @@
 
 ### 📝 Latest Blog Posts
 
+
 <!-- BLOG-POST-LIST:START -->
 - 🚧 Coming soon: Blog integration!
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 
 ### 📬 Contact Me
 
