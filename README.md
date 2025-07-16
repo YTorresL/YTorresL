@@ -15,6 +15,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YTorresL&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+## 🧰 About Me
+
 - 🚀 Passionate about technology and web development.
 - 🌍 I've worked in Venezuela 🇻🇪, Ecuador 🇪🇨, and Mexico 🇲🇽.
 - 🧠 Constantly learning: from backend to cloud computing.
@@ -22,10 +24,7 @@
 - 🌱 Currently improving my English, communication, and coding skills.
 - 💡 I love turning ideas into real web products!
 
-
-
 ## 🧰 Tech Stack
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
