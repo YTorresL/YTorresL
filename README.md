@@ -40,21 +40,10 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-
-<!-- BLOG-POST-LIST:START -->
-- 🚧 Coming soon: Blog integration!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
 ### 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/tu-canal)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://tusitio.dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yalithdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yalith-torres])
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://portfoliov2-app.vercel.app)
 
 
